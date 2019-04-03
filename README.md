@@ -47,3 +47,6 @@ Frida will consist of four repos including this one, which serves as the entry p
 - [Frida download](https://github.com/IBM/Frida/blob/master/download.md) (Comming soon)
 
 
+
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
